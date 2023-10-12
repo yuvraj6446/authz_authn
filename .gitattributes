@@ -1,3 +1,7 @@
 
 
 *.bin text eol=lf
+# Set LF line endings for specific files
+*.js text eol=lf
+package-lock.json text eol=lf
+package.json text eol=lf
